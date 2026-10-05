@@ -1,0 +1,1 @@
+select * from audit_logs;
